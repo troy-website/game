@@ -1,0 +1,39 @@
+.game{
+    width : 800px;
+    height : 800px;
+    color:black;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background-color:bisque;
+    margin:auto;
+    font-weight:400px;
+
+}
+.title{
+    background-color:dimgray;
+    padding:15px;
+    margin:20px;
+}
+span{
+    color:yellow;
+}
+.square{
+    width:200px;
+    height:200px;
+    background-color:dimgray;
+    float:left;
+    margin:2px;
+    font-size:110px;
+    font-family: system-ui;
+    text-align:center;
+    
+}
+.square:hover{
+    background:yellow;
+    cursor:pointer;
+
+
+}
+.edit{
+    padding-left: 10%;
+}
